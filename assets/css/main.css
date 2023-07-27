@@ -19,9 +19,9 @@
 
 /* Colors */
 :root {
-  --color-default: #364d59;
-  --color-primary: #feb900;
-  --color-secondary: #52565e;
+  --color-default: #000000;
+  --color-primary: #fe4400;
+  --color-secondary: #484848;
 }
 
 /* Smooth scroll behavior */
@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-  color: #ffc732;
+  color: #fe4400;
   text-decoration: none;
 }
 
@@ -206,7 +206,7 @@ section {
   inset: 0;
   z-index: 999999;
   overflow: hidden;
-  background: #fff;
+  background: #000000;
   transition: all 0.6s ease-out;
 }
 
@@ -305,7 +305,7 @@ section {
     font-family: var(--font-primary);
     font-size: 14px;
     font-weight: 500;
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 94, 0, 0.896);
     text-transform: uppercase;
     white-space: nowrap;
     transition: 0.3s;
