@@ -1023,13 +1023,13 @@ section {
 }
 
 .testimonials .testimonial-item .stars i {
-  color: #ffc107;
+  color: #fe4400;
   margin: 0 1px;
 }
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #ffd565;
+  color: #fe4400;
   font-size: 26px;
   line-height: 0;
 }
@@ -1493,7 +1493,7 @@ section {
 }
 
 .project-details .portfolio-info .btn-visit:hover {
-  background: #ffc019;
+  background: #fe4400;
 }
 
 .project-details .portfolio-description h2 {
@@ -1645,7 +1645,7 @@ section {
   line-height: 0;
   color: var(--color-primary);
   border-radius: 50%;
-  border: 2px dotted #ffd565;
+  border: 2px dotted #fe4400;
 }
 
 .contact .info-item h3 {
@@ -2345,7 +2345,7 @@ section {
 }
 
 .blog .sidebar .search-form form button:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: #fe4400;
 }
 
 .blog .sidebar .categories ul {
@@ -2523,7 +2523,7 @@ section {
 
 .blog .comments .reply-form input:focus {
   box-shadow: none;
-  border-color: rgba(254, 185, 0, 0.8);
+  border-color:#fe4400;
 }
 
 .blog .comments .reply-form textarea {
@@ -2534,7 +2534,7 @@ section {
 
 .blog .comments .reply-form textarea:focus {
   box-shadow: none;
-  border-color: rgba(254, 185, 0, 0.8);
+  border-color: #fe4400;
 }
 
 .blog .comments .reply-form .form-group {
