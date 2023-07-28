@@ -207,7 +207,6 @@ section {
   z-index: 999999;
   overflow: hidden;
 /* add background image */
-  background-image: src("./src/gallery/phoenix.png");
   transition: all 0.6s ease-out;
 }
 
