@@ -2618,7 +2618,7 @@ section {
 .footer .footer-content h4 {
   font-size: 16px;
   font-weight: 600;
-  color: #fff;
+  color: #ff5500;
   position: relative;
   padding-bottom: 12px;
 }
@@ -2649,7 +2649,7 @@ section {
 }
 
 .footer .footer-content .footer-links ul a:hover {
-  color: #fff;
+  color: orange;
 }
 
 .footer .footer-legal .copyright {
