@@ -992,11 +992,11 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
+  width: 120px;
   border-radius: 10px;
   border: 6px solid #fff;
   position: absolute;
-  left: -45px;
+  left: -85px;
 }
 
 .testimonials .testimonial-item h3 {
