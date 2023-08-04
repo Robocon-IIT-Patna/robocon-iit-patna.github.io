@@ -1860,7 +1860,7 @@ section {
   background-repeat: no-repeat;
   overflow: hidden;
   z-index: 1;
-  transition-duration: 0.4s;
+  transition-duration: 0.6s;
 }
 
 .hero .carousel-item::before {
@@ -1958,10 +1958,11 @@ section {
   background: none;
   font-size: 26px;
   line-height: 0;
-  background: rgba(255, 255, 255, 0.2);
-  color: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 85, 0, 0.846);
+  color: rgba(0, 0, 0, 0.824);
   border-radius: 50px;
   width: 54px;
+  opacity: 0.5;
   height: 54px;
   display: flex;
   align-items: center;
