@@ -98,7 +98,7 @@ section {
 
 @media (min-width: 1199px) {
   .section-header p {
-    max-width: 60%;
+    max-width: 75%;
   }
 }
 
@@ -973,18 +973,19 @@ section {
 # Testimonials Section
 --------------------------------------------------------------*/
 .testimonials .testimonial-wrap {
-  padding-left: 50px;
+  padding-left: 10px;
 }
 
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
+  width: 90%;
 }
 
 .testimonials .testimonial-item {
   box-sizing: content-box;
-  padding: 30px 30px 30px 60px;
-  margin: 0 15px 30px 0;
+  padding: 20px 30px 30px 30px;
+  margin: 0 35px 10px 0;
   min-height: 200px;
   box-shadow: 0px 2px 20px rgba(82, 86, 94, 0.1);
   position: relative;
@@ -992,7 +993,7 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 120px;
+  width: 100px;
   border-radius: 10px;
   border: 6px solid #fff;
   position: absolute;

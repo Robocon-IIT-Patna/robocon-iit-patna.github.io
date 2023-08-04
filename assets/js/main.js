@@ -1,10 +1,4 @@
-/**
-* Template Name: UpConstruction
-* Updated: May 30 2023 with Bootstrap v5.3.0
-* Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 document.addEventListener('DOMContentLoaded', () => {
   "use strict";
 
@@ -142,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
     speed: 600,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 3500,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
@@ -164,7 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
     speed: 600,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 3500,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
@@ -179,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     breakpoints: {
       320: {
-        slidesPerView: 1,
+        slidesPerView: 2,
         spaceBetween: 20
       },
 
