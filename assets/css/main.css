@@ -55,7 +55,7 @@ h6 {
 # Sections & Section Header
 --------------------------------------------------------------*/
 section {
-  padding: 80px 0;
+  padding: 20px 0;
   overflow: hidden;
 }
 
@@ -98,7 +98,7 @@ section {
 
 @media (min-width: 1199px) {
   .section-header p {
-    max-width: 75%;
+    max-width: 85%;
   }
 }
 
@@ -973,35 +973,36 @@ section {
 # Testimonials Section
 --------------------------------------------------------------*/
 .testimonials .testimonial-wrap {
-  padding-left: 10px;
+  padding-left: 20px;
 }
 
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
-  width: 90%;
+  width: 100%;
 }
 
 .testimonials .testimonial-item {
-  box-sizing: content-box;
+  box-sizing:border-box;
   padding: 20px 30px 30px 30px;
-  margin: 0 35px 10px 0;
-  min-height: 200px;
+  margin: 0 25px 10px 0;
+  min-height: 300px;
+  max-width: 500px;
   box-shadow: 0px 2px 20px rgba(82, 86, 94, 0.1);
   position: relative;
   background: #fff;
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 100px;
+  width: 120px;
   border-radius: 10px;
   border: 6px solid #fff;
   position: absolute;
-  left: -85px;
+  left: -105px;
 }
 
 .testimonials .testimonial-item h3 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   margin: 10px 0 5px 0;
   color: #000;
@@ -1076,7 +1077,7 @@ section {
 
   .testimonials .testimonial-item {
     padding: 30px;
-    margin: 15px;
+    margin: 10px;
   }
 
   .testimonials .testimonial-item .testimonial-img {
