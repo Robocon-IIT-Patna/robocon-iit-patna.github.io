@@ -2677,3 +2677,8 @@ section {
 .footer .footer-legal .credits a {
   color: var(--color-primary);
 }
+.member-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
