@@ -1296,8 +1296,8 @@ section {
   border-radius: 50%;
   overflow: hidden;
   position: relative;
-  width: 150px; /* Set the desired width for the circular image */
-  height: 150px; /* Set the desired height for the circular image */
+  width: 130px; /* Set the desired width for the circular image */
+  height: 130px; /* Set the desired height for the circular image */
 }
 
 @media (max-width: 1024px) {
