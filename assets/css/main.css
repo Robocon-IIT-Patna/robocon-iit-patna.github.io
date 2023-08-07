@@ -1307,16 +1307,21 @@ section {
     height: 120px; /* Adjust the height for smaller screens */
   }
 }
+.team .member .member-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 120px; /* Adjust the width to your desired circle size */
+  height: 120px; /* Adjust the height to your desired circle size */
+  border-radius: 50%;
+  overflow: hidden;
+}
 
 .team .member .member-img img {
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover; /* Ensure the entire image is visible within the circle */
-  z-index: 1;
-  border-radius: 50%;
+  object-fit: cover;
 }
 
 .team .member .member-img .social {
