@@ -1546,6 +1546,13 @@ section {
   margin: 0;
 }
 
+h4{
+  font-size: 24px;
+  color: #f03a03;
+  margin: 0;
+}
+
+
 .project-details .portfolio-description .testimonial-item .quote-icon-left,
 .project-details .portfolio-description .testimonial-item .quote-icon-right {
   color: #ffd565;
