@@ -2689,3 +2689,26 @@ h4{
   flex-direction: column;
   align-items: center;
 }
+#video_container {
+  width: 100%;
+  max-width: 800px; /* Set the maximum width of the video container */
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto; /* Center the container horizontally */
+  flex-wrap: wrap; /* Allow items to wrap to the next line on small screens */
+}
+
+.instagram-media {
+  width: calc(50% - 20px); /* Make each video take up 50% width with a gap of 20px in between */
+  max-width: 400px; /* Limit the maximum width of each video */
+  margin: 10px; /* Add some space around each video */
+}
+.invisible-text {
+  color: transparent;
+}
+
+
+
